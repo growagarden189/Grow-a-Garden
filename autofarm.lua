@@ -16,7 +16,7 @@ local Leaderstats = LocalPlayer.leaderstats
 local Backpack = LocalPlayer.Backpack
 local PlayerGui = LocalPlayer.PlayerGui
 
-local ShecklesCount = Leaderstats.Sheckles
+local ShecklesCount = 10000000000000000000000
 local GameInfo = MarketplaceService:GetProductInfo(game.PlaceId)
 
 --// ReGui
